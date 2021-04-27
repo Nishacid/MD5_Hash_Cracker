@@ -1,6 +1,6 @@
 # MD5 Hash Cracker
 
-MD5 Hash cracker with 3 differents modes
+MD5 Hash cracker with 3 different modes
 
     - Using a wordlist 
     - Using an incremental mode
